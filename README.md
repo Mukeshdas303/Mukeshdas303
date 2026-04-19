@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Mukesh Das 👋<br>I don't just study AI — I ship it.<br><br>What I Build<br>🧠 LLM-Powered Products — Custom pipelines, agents & intelligent automation that solve real problems<br>⚡ Scalable Backend APIs — FastAPI systems designed for production load, not just localhost<br>👁️ Computer Vision — YOLO-based tracking & detection systems built for deployment<br>🔧 Custom Model Development — PyTorch Transformers & BPE Tokenizers engineered from scratch<br><br>Currently Engineering<br>⚙️ Efficient LLM pipelines for production deployment<br>🌐 Edge + Cloud hybrid AI architectures<br>📦 High-impact AI products that scale<br><br><br>📍 Pune, India | 🎓 B.E. AI/ML @ MESWCOE College of Engineering<br>
+Hey, I'm Mukesh Das 👋<br>I don't just study AI — I ship it.<br><br>Currently Engineering<br>⚙️ Efficient LLM pipelines for production deployment<br>🌐 Edge + Cloud hybrid AI architectures<br>📦 High-impact AI products that scale<br><br><br>📍 Pune, India | 🎓 B.E. AI/ML @ MESWCOE College of Engineering<br>
 
 
 ## 🌐 Socials:
